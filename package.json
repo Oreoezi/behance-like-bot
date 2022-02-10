@@ -1,0 +1,14 @@
+{
+  "name": "behance-like-bot",
+  "version": "1.0.0",
+  "description": "Bot that likes a post on behance from multiple proxies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node master.js"
+  },
+  "author": "Oreoezi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.3.1"
+  }
+}
