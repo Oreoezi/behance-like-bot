@@ -11,7 +11,7 @@ What it does:
 - You will need node.js in order to use this script. You can download it <a href="https://nodejs.org/en/">here</a>.
 - After cloning the repository, open it up in ``cmd/powershell/terminal``.
 - Install the dependencies by running ``npm install``.
-- After that it's as simple as running ``node index.js``.
+- After that it's as simple as running ``node master.js``/``npm start``.
 
 # Installation 
 
