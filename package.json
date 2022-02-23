@@ -9,6 +9,6 @@
   "author": "Oreoezi",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^13.3.2"
+    "puppeteer": "^13.4.0"
   }
 }
